@@ -33,9 +33,9 @@ pip install pygame
 
 1. Run the game:
 
-   ```bash
+
    python snake_game.py
-   ```
+  
 
    *(replace `snake_game.py` with your filename if different)*
 
